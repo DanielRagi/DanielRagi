@@ -7,7 +7,7 @@
 
 ### 🛠️ Technologies I use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,django,mysql,mongodb,py,unity" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,django,mysql,mongodb,py,unity" />
 </p>
 
 
