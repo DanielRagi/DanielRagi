@@ -20,7 +20,7 @@
   <a href="https://twitter.com/danielragi" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="25" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.danielramirez.pro" target="_blank">
     <img src="https://img.shields.io/badge/-Website-000000?style=flat&logo=globe&logoColor=white" height="25" />
   </a>
   <br/>
